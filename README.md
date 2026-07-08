@@ -1,12 +1,24 @@
-# <h1 align="center">Hi 👋, I'm MD. Mehraz Howlader</h1>
+<h1 align="center">Hi 👋, I'm MD. Mehraz Howlader</h1>
 
 <h3 align="center">
 Computer Science & Engineering Student at United International University (UIU)
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Software+Engineering+Enthusiast;Research+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineering+Enthusiast;Aspiring+Full+Stack+Developer;Research+Enthusiast;Continuous+Learner"
+    alt="Typing SVG"
+  />
 </p>
+
+---
+
+## ⭐ Highlights
+
+- 🥇 Champion — UIU CSE Project Showcase (System Analysis & Design)
+- 🥉 3rd Runner-Up — UIU CSE Project Showcase (Electronics Project)
+- 💻  Passionate about **Full Stack Web Development and Software Engineering**
+- 🔬 Interested in Software Engineering Research
 
 ---
 
@@ -88,53 +100,38 @@ Enterprise role-based management system for port operations.
 </p>
 
 ---
+## 🔬 Research Interests
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehrazhowlader&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrazhowlader&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
+- Software Engineering
+- Web Technologies
+- Artificial Intelligence
+- Human-Computer Interaction (HCI)
+- Database Systems
 
 ---
 
-# 🔥 GitHub Streak
+## 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mehrazhowlader&theme=github-dark&hide_border=true" />
-
-</p>
-
+- Building Full Stack Web Applications
+- Learning Backend Development with Node.js and Express.js
+- Exploring React Ecosystem
+- Developing Scalable Software Solutions
+- Contributing to Academic and Research Projects
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=linkedin" height="24"></td>
+<td><a href="https://www.linkedin.com/in/md-mehraz-howlader"><b>linkedin.com/in/md-mehraz-howlader</b></a></td>
+</tr>
 
-<a href="https://www.linkedin.com/in/md-mehraz-howlader" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" align="center"/>
-</a>
-<a href="https://www.linkedin.com/in/md-mehraz-howlader" target="_blank">
-  <b>linkedin.com/in/md-mehraz-howlader</b>
-</a>
-
-<br><br>
-
-<a href="mailto:mhowlader2410152@bscse.uiu.ac.bd">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="35" align="center"/>
-</a>
-
-<a href="mailto:mhowlader2410152@bscse.uiu.ac.bd">
-  <b>mhowlader2410152@bscse.uiu.ac.bd</b>
-</a>
-
-</p>
-
----
+<tr>
+<td><img src="https://skillicons.dev/icons?i=gmail" height="24"></td>
+<td><a href="mailto:mhowlader2410152@bscse.uiu.ac.bd"><b>mhowlader2410152@bscse.uiu.ac.bd</b></a></td>
+</tr>
+</table>
 
 
 
