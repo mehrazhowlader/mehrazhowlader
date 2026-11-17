@@ -36,8 +36,12 @@ Computer Science & Engineering Student at United International University (UIU)
 
 ## 🎓 Academic Experience
 
-### Undergraduate Assistant (UGA) — Database Management Systems (DBMS)
+### Undergraduate Assistant (UGA) 
+### Database Management Systems (DBMS)
 **United International University (UIU) | Summer 2026**
+### Microprocessors and Microcontrollers Laboratory
+**United International University (UIU) | Fall 2026**
+
 
 ---
 
