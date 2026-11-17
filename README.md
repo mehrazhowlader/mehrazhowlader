@@ -15,10 +15,13 @@ Computer Science & Engineering Student at United International University (UIU)
 
 ## ⭐ Highlights
 - 🎓 Served as an Undergraduate Assistant (UGA) for Database Management Systems (DBMS) at (UIU) during Summer 2026.
+- 🎓 Served as an Undergraduate Assistant (UGA) for Microprocessors and Microcontrollers Laboratory at (UIU) during Fall 2026.
 - 🥇 Champion — UIU CSE Project Showcase (System Analysis & Design)
 - 🥉 3rd Runner-Up — UIU CSE Project Showcase (Electronics Project)
 - 💻  Passionate about **Full Stack Web Development and Software Engineering**
 - 🔬 Interested in Software Engineering Research
+- 🔬  Interested in Data Science, Machine Learning
+- 💻 Open for Research Opportunities 
 
 ---
 
